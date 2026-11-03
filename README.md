@@ -34,6 +34,8 @@ Read the numbered documents in order; each builds only on the ones before it.
 
 `pnpm check` runs the typecheck, the tests and the build.
 
+本地部署环境：Windows 11 + WSL2 Ubuntu。
+
 ## License
 
 [MIT](LICENSE)
